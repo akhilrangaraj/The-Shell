@@ -20,7 +20,7 @@
   text-decoration: none; }
 
 .icon-ghost-text {
-  font-family: "Courier New", Courier, monospace; }
+  font-family: "Lucida Console", Monaco, monospace; }
 .icon-ghost:before {
   content: "\e000"; }
 .icon-feed:before {
@@ -44,7 +44,7 @@ html {
 body {
   height: 100%;
   max-height: 100%;
-  font-family: "Courier New", Courier, monospace;
+  font-family:"Lucida Console", Monaco, monospace;
   font-size: 2.0rem;
   line-height: 1.6em;
   color: #B2B6BD;
@@ -171,7 +171,7 @@ mark {
 code, tt {
   padding: 1px 3px;
   /*font-family: Menlo, Consolas, Monaco, "Lucida Console", monospace;*/
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Lucida Console", Monaco, monospace;
   font-size: 0.75em;
   white-space: pre;
   border: 1px solid #424a5a;
@@ -185,7 +185,7 @@ pre {
   width: 100%;
   padding: 10px;
   /*font-family: Menlo, Consolas, Monaco, "Lucida Console", monospace;*/
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Lucida Console", Monaco, monospace;
   font-size: 0.8em;
   white-space: pre;
   overflow: auto;
@@ -465,7 +465,7 @@ button, input, select, textarea {
   width: 80%;
   max-width: 700px;
   margin: 4rem auto;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Lucida Console", Monaco, monospace;
   font-size: 1.3rem;
   color: #9EABB3;
   text-align: center; }

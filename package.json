@@ -1,8 +1,8 @@
 {
-    "name": "the-shell",
+    "name": "the-shell-edited",
     "description" : "Simple theme for Ghost. Pure CSS. Web Safe fonts.",
     "demo": "https://demo.ghost.io",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "engines": {
         "ghost": ">=0.4.0 <1.0.0"
     },
